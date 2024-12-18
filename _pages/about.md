@@ -51,7 +51,7 @@ My research areas include:
 
 ---
 
-### Article
+## Article
 <font color="#48aee" ><b>[IEEE Commun. Surv. Tutorials]</b></font><b>Hanjiang Luo</b>, Kaishun Wu, Rukhsana Ruby, Yongquan Liang,Zhongwen Guo, Lionel M. Ni, “Software-Defined Architectures and Technologies for Underwter Wireless Sensor Networks: A Survey”,IEEE Communications Surveys and Tutorials, 2018,20 (4)，Pages 2855-2888.
 [[网页]](https://ieeexplore.ieee.org/document/8369058)
 
@@ -79,20 +79,21 @@ My research areas include:
 <b>Hanjiang Luo</b>, Zhong Yang, Linfeng, Huang,“Localization for a Hybrid Ocean Wireless Sensor Networs”, Advanced Technologies in Ad Hoc and Sensor Networks Lecture Notes in Electrical Engineering, 2013, Volume 295, Pages 353-362.
 [[网页]](https://link.springer.com/chapter/10.1007/978-3-642-54174-2_32)
 
-<font color="#48aee" ><b>[ICPADS]</b></font><b>Hanjiang Luo</b>, Rukhsana Ruby, “HARS A Hybrid Adaptive Routing Scheme for Underwater Sensor Networks”， The 23th IEEE International Conference on Parallel and Distributed Systems (ICPADS 2017), 2017，Pages 284-291.
+<font color="#48aee" ><b>[ICPADS]
+<span></b></font><b>Hanjiang Luo</b>, Rukhsana Ruby, “HARS A Hybrid Adaptive Routing Scheme for Underwater Sensor Networks”， The 23th IEEE International Conference on Parallel and Distributed Systems (ICPADS 2017), 2017，Pages 284-291.</span>
 [[网页]](https://ieeexplore.ieee.org/document/8368375)
 
 <font color="#48aee" ><b>[计算机研究与发展]</b></font>
 郭忠文, <b>罗汉江</b>, 洪锋，杨猛，倪明选， “水下无线传感器网络的研究进展”，计算机研究与发展，2010，47（3），Pages 377-389.
 [[网页]](https://www.researchgate.net/publication/203039471_Current_Progress_and_Research_Issues_in_Underwater_Sensor_Networks)
 
-### Patent
+## Patent
 
 - “一种海洋无线传感器网络定位方法”， （位次 1），发明人：<b>罗汉江</b>，伍楷舜，倪明选 ，2016年9月，授权号：ZL201410387193.0。
 - “一种基于漂浮线缆的海洋立体监测传感器网络部署方法“，（位次 1），发明人：<b>罗汉江</b>，2018年8月，授权号：ZL201510117916.X。
 - “一种大型场合服务收费系统及方法”，（位次 3），发明人 ：刘美丽、李宁宁、<b>罗汉江</b>、栾秋平，2013年4月，授权号：ZL201310140549.
 
-### Book
+## Book
 - 2017.07， 智能家居概论，机械工业出版社，主编。
 - 2013.05， 物联网导论，东软电子出版社，主编。
 - 2013.03， 物联网应用技术导论，东软电子出版社，主编。
