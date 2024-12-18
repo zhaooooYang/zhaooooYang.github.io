@@ -35,6 +35,9 @@ been granted five invention patents (first place), and won the Second Prize of t
 
 <span class='anchor' id='-xl'></span>
 # Research
+
+---
+
 My research areas include:
 - Internet of Things
 - Artificial Intelligence
