@@ -39,7 +39,7 @@ My research areas include:
 - Internet of Things
 - Artificial Intelligence
 - Deep Reinforcement Learning
-- Intelligent Collaboration of Drones
+- Intelligent Collaboration of UAV
 - Swarm Intelligence of Robots
 
 <span class='anchor' id='-lwzl'></span>
@@ -84,7 +84,7 @@ My research areas include:
 [[网页]](https://www.researchgate.net/publication/203039471_Current_Progress_and_Research_Issues_in_Underwater_Sensor_Networks)
 
 ### Patent
----
+
 - “一种海洋无线传感器网络定位方法”， （位次 1），发明人：<b>罗汉江</b>，伍楷舜，倪明选 ，2016年9月，授权号：ZL201410387193.0。
 - “一种基于漂浮线缆的海洋立体监测传感器网络部署方法“，（位次 1），发明人：<b>罗汉江</b>，2018年8月，授权号：ZL201510117916.X。
 - “一种大型场合服务收费系统及方法”，（位次 3），发明人 ：刘美丽、李宁宁、<b>罗汉江</b>、栾秋平，2013年4月，授权号：ZL201310140549.
@@ -97,9 +97,16 @@ My research areas include:
 <span class='anchor' id='-teaching'></span>
 
 # Teaching
+
+---
+
 - 指导学生获中国大学生计算机设计大赛三等奖（2022）
 - 指导学生获“华为杯”全国大学生物联网设计竞赛华北赛区二等奖（2020）
 - 指导学生获山东省大学生科技节一等奖（2020）
+
+# Award
+
+---
 
 <span class='anchor' id='-award'></span>
 1. 2017.10，山东省高等学校科学技术奖，一等奖，山东省教育厅，首位。
@@ -111,6 +118,9 @@ My research areas include:
 
 <span class='anchor' id='-project'></span>
 # Project
+
+---
+
 1. 国家自然科学基金面上项目，62072287，海洋环境下声光电协同网络关键问题研究，2021.01-2024.12，56万元，在研，主持
 
 2. 国家基金重点基金联合项目，基于跨层优化的水下无线传感器网络关键技术研究，2025.01-2028.12，261万，在研，联合单位负责人
