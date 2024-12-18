@@ -16,26 +16,25 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+# Biography
+Hanjiang Luo joined <font color="#48aee">Shandong University of Science and Technology</font> in May 2018
+and is currently a professor in the School of Computer Science and Software Engineering.
+He obtained his Master’s degree in Computer Application Technology from <font color="#48aee">Ocean University of China</font> in Qingdao, China in 2007,
+and the Ph.D degree in Computer Science and Engineering from the same university under the supervision of Prof. Zhongwen Guo in 2010.
+He served as a visiting scholar at the <font color="#48aee">Hong Kong University of Science and Technology</font> in 2014.
 
-我将博士毕业于湖北武汉的 华中科技大学 机械科学与工程学院，我的导师是康宜华教授。本科毕业于四川成都的 四川大学 制造科学与工程学院（现机械工程学院）。包括合著，我已经发表 20+ 篇学术论文
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
-
-我的研究领域包括：
-- 仪器仪表
-- 机械工程
-- 电磁无损检测
-- 漏磁检测
-- 涡流检测
-- 磁传感器
-- 无损检测装备开发
-  
-
+He is currently the host of one National Fund general project,
+one sub-project of the National Fund Joint Fund key project,
+and one Shandong Provincial Fund general project.
+He has participated in more than ten projects including the National 973 Project,
+863 Project, National Fund, and Shandong Provincial University Scientific Research Projects.
+He has received the First Prize of the Shandong Provincial University Outstanding Scientific Research Achievement Award (first place),
+been granted five invention patents (first place), and won the Second Prize of the National Teaching Achievement Award.
 
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2016.06 - 2022.12*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 华中科技大学 机械科学与工程学院, 湖北武汉, 推免直博 
-- *2012.09 - 2016.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 四川大学 制造科学与工程学院, 四川成都, 本科
+
  
 <span class='anchor' id='-lwzl'></span>
 
