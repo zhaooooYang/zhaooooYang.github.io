@@ -16,6 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
+
 # Biography
 Hanjiang Luo joined <font color="#48aee">Shandong University of Science and Technology</font> in May 2018
 and is currently a professor in the School of Computer Science and Software Engineering.
@@ -33,7 +34,16 @@ been granted five invention patents (first place), and won the Second Prize of t
 
 <span class='anchor' id='-xl'></span>
 
-# 🎓 学历
+# Research
+我的研究领域包括：
+- 物联网
+- 人工智能
+- 深度强化学习
+- 无人机智能协同
+- 机器人集群协同智能
+- 智慧城市
+- 智慧海洋
+
 
  
 <span class='anchor' id='-lwzl'></span>
