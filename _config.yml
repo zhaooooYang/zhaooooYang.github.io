@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Hanjiang Luo"
-description              : "强化学习"
+description              : "Shandong University of Science and Technology"
 repository               : "zhaooooYang/zhaooooYang.github.io"
 google_scholar_stats_use_cdn : false
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hanjiang Luo"
   avatar           : "images/lhj.png"
-  bio              : "Shandong University of Science and Technology"
+  bio              : "Professor"
   location         : "Qingdao Shandong China"
   employer         : "Professor"
   pubmed           : 
