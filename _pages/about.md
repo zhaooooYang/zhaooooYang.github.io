@@ -79,8 +79,7 @@ My research areas include:
 <b>Hanjiang Luo</b>, Zhong Yang, Linfeng, Huang,“Localization for a Hybrid Ocean Wireless Sensor Networs”, Advanced Technologies in Ad Hoc and Sensor Networks Lecture Notes in Electrical Engineering, 2013, Volume 295, Pages 353-362.
 [[网页]](https://link.springer.com/chapter/10.1007/978-3-642-54174-2_32)
 
-<font color="#48aee" ><b>[ICPADS]
-<span></b></font><b>Hanjiang Luo</b>, Rukhsana Ruby, “HARS A Hybrid Adaptive Routing Scheme for Underwater Sensor Networks”， The 23th IEEE International Conference on Parallel and Distributed Systems (ICPADS 2017), 2017，Pages 284-291.</span>
+<font color="#48aee"><b>[ICPADS]</b></font><b>Hanjiang Luo</b>, Rukhsana Ruby, “HARS A Hybrid Adaptive Routing Scheme for Underwater Sensor Networks”， The 23th IEEE International Conference on Parallel and Distributed Systems (ICPADS 2017), 2017，Pages 284-291.
 [[网页]](https://ieeexplore.ieee.org/document/8368375)
 
 <font color="#48aee" ><b>[计算机研究与发展]</b></font>
