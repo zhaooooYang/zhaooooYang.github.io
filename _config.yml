@@ -23,13 +23,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Hanjiang Luo"
   avatar           : "images/lhj.png"
-  bio              : "华中科技大学"
-  location         : "湖北 武汉"
-  employer         : #"Hefei General Machinery Research Institute"
+  bio              : "Shandong University of Science and Technology"
+  location         : "Qingdao Shandong China"
+  employer         : "Professor"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
-  email            : "tangj@hust.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Jian-Tang-53"
+  googlescholar    : #"https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
+  email            : "luo.hj@foxmail.com"
+  researchgate     : #"https://www.researchgate.net/profile/Jian-Tang-53"
   uri              : 
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tangjyan"
+  github           : #""
   google_plus      :
   keybase          :
   instagram        :
