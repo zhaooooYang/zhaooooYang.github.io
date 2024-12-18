@@ -25,7 +25,7 @@ author:
   avatar           : "images/lhj.png"
   bio              : "Professor"
   location         : "Qingdao Shandong China"
-  employer         : "Professor"
+  employer         : # ""
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=WMkMTb4AAAAJ"
   email            : "luo.hj@foxmail.com"
