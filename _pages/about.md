@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # Biography
+
 Hanjiang Luo joined <font color="#48aee">Shandong University of Science and Technology</font> in May 2018
 and is currently a professor in the School of Computer Science and Software Engineering.
 He obtained his Master’s degree in Computer Application Technology from <font color="#48aee">Ocean University of China</font> in Qingdao, China in 2007,
