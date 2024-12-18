@@ -6,7 +6,7 @@ main:
   - title: "Publication"
     url: "#-xl"
 
-  - title: "论文专利"
+  - title: "Teaching"
     url: "#-lwzl"
 
   - title: "Award"
@@ -15,5 +15,3 @@ main:
   - title: "Project"
     url: "#-xshy"
 
-  - title: "工作实习"
-    url: "#-gzsx"
