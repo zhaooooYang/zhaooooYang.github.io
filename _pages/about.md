@@ -34,9 +34,8 @@ He has received the First Prize of the Shandong Provincial University Outstandin
 been granted five invention patents (first place), and won the Second Prize of the National Teaching Achievement Award.
 
 <span class='anchor' id='-xl'></span>
-# Research
 
-***
+# Research
 
 My research areas include:
 - Internet of Things
@@ -48,8 +47,6 @@ My research areas include:
 <span class='anchor' id='-lwzl'></span>
 
 # Publication
-
----
 
 ## Article
 <font color="#48aee" ><b>[IEEE Commun. Surv. Tutorials]</b></font><b>Hanjiang Luo</b>, Kaishun Wu, Rukhsana Ruby, Yongquan Liang,Zhongwen Guo, Lionel M. Ni, “Software-Defined Architectures and Technologies for Underwter Wireless Sensor Networks: A Survey”,IEEE Communications Surveys and Tutorials, 2018,20 (4)，Pages 2855-2888.
@@ -101,17 +98,14 @@ My research areas include:
 
 # Teaching
 
----
-
 - 指导学生获中国大学生计算机设计大赛三等奖（2022）
 - 指导学生获“华为杯”全国大学生物联网设计竞赛华北赛区二等奖（2020）
 - 指导学生获山东省大学生科技节一等奖（2020）
 
+<span class='anchor' id='-award'></span>
+
 # Award
 
----
-
-<span class='anchor' id='-award'></span>
 1. 2017.10，山东省高等学校科学技术奖，一等奖，山东省教育厅，首位。
 2. 2018.12，青岛市西海岸新区第三批高层次紧缺人才计划，青岛市西海岸新区，首位。
 3. 2018.12，2018年国家级教学成果奖，二等奖，教育部，14/15。
@@ -120,9 +114,8 @@ My research areas include:
 6. 2010.03，山东省优秀毕业生，山东省人力资源和社会保障厅，首位。
 
 <span class='anchor' id='-project'></span>
-# Project
 
----
+# Project
 
 1. 国家自然科学基金面上项目，62072287，海洋环境下声光电协同网络关键问题研究，2021.01-2024.12，56万元，在研，主持
 
