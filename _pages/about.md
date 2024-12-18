@@ -48,45 +48,45 @@ My research areas include:
 ---
 
 ### Article
-<font color="#48aee" ><b>[IEEE Commun. Surv. Tutorials]</b></font>Hanjiang Luo, Kaishun Wu, Rukhsana Ruby, Yongquan Liang,Zhongwen Guo, Lionel M. Ni, “Software-Defined Architectures and Technologies for Underwter Wireless Sensor Networks: A Survey”,IEEE Communications Surveys and Tutorials, 2018,20 (4)，Pages 2855-2888.
+<font color="#48aee" ><b>[IEEE Commun. Surv. Tutorials]</b></font><b>Hanjiang Luo</b>, Kaishun Wu, Rukhsana Ruby, Yongquan Liang,Zhongwen Guo, Lionel M. Ni, “Software-Defined Architectures and Technologies for Underwter Wireless Sensor Networks: A Survey”,IEEE Communications Surveys and Tutorials, 2018,20 (4)，Pages 2855-2888.
 [[网页]](https://ieeexplore.ieee.org/document/8369058)
 
-<font color="#48aee" ><b>[CSUR]</b></font>Hanjiang Luo, Kaishun Wu, Rukhsana Ruby, Feng Hong ,Zhongwen Guo, Lionel M. Ni, “Simulation and Experimentation Platforms for Underwater Acoustic Sensor Networks: Advancements and Challenges”, ACM Computing Surveys (CSUR), 2017,50 (2)，Pages 1-44.
+<font color="#48aee" ><b>[CSUR]</b></font><b>Hanjiang Luo</b>, Kaishun Wu, Rukhsana Ruby, Feng Hong ,Zhongwen Guo, Lionel M. Ni, “Simulation and Experimentation Platforms for Underwater Acoustic Sensor Networks: Advancements and Challenges”, ACM Computing Surveys (CSUR), 2017,50 (2)，Pages 1-44.
 [[网页]](https://dl.acm.org/doi/10.1145/3040990)
 
-<font color="#48aee" ><b>[IEEE TPDS]</b></font>Hanjiang Luo, Kaishun Wu, Zhongwen Guo, Lin Gu and Lionel M. Ni, “Intrusion Detection with Wireless Sensor Networks”, IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS), 2012, 23 (7) , Pages 1336-1343.
+<font color="#48aee" ><b>[IEEE TPDS]</b></font><b>Hanjiang Luo</b>, Kaishun Wu, Zhongwen Guo, Lin Gu and Lionel M. Ni, “Intrusion Detection with Wireless Sensor Networks”, IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS), 2012, 23 (7) , Pages 1336-1343.
 [[网页]](https://ieeexplore.ieee.org/document/10477421)
 
-<font color="#48aee" ><b>[IEEE TVT]</b></font>Hanjiang Luo, Kaishun Wu, Lionel M. Ni, ”Localization for Drifting Restricted Floating Ocean Sensor Networks”, 2016, 65 (12) , Pages 9968-9981.  IEEE Transactions on Vehicular Technology.
+<font color="#48aee" ><b>[IEEE TVT]</b></font><b>Hanjiang Luo</b>, Kaishun Wu, Lionel M. Ni, ”Localization for Drifting Restricted Floating Ocean Sensor Networks”, 2016, 65 (12) , Pages 9968-9981.  IEEE Transactions on Vehicular Technology.
 [[网页]](https://ieeexplore.ieee.org/document/7407425)
 
-<font color="#48aee" ><b>[IEEE ACCESS]</b></font>Hanjiang Luo, Xiumei Xie, Guangjie Han, Rukhsana Ruby, Feng Hong, Yongquan Liang. Multimodal Acoustic-RF Adaptive Routing Protocols for Underwater Wireless Sensor Networks [J], IEEE ACCESS, 2019,7 (9): 134954-134967。
+<font color="#48aee" ><b>[IEEE ACCESS]</b></font><b>Hanjiang Luo</b>, Xiumei Xie, Guangjie Han, Rukhsana Ruby, Feng Hong, Yongquan Liang. Multimodal Acoustic-RF Adaptive Routing Protocols for Underwater Wireless Sensor Networks [J], IEEE ACCESS, 2019,7 (9): 134954-134967。
 [[网页]](https://ieeexplore.ieee.org/document/8843859)
 
-<font color="#48aee" ><b>[Sensors]</b></font>Hanjiang Luo, Zhongwen Guo, KaishunWu, Feng Hong and Yuan Feng, “Energy Balanced Strategies for Maximizing the Lifetime of Sparsely Deployed Underwater Acoustic Sensor Networks”, Sensors, 2009, 9(9), Pages 6626-6651.
+<font color="#48aee" ><b>[Sensors]</b></font><b>Hanjiang Luo</b>, Zhongwen Guo, KaishunWu, Feng Hong and Yuan Feng, “Energy Balanced Strategies for Maximizing the Lifetime of Sparsely Deployed Underwater Acoustic Sensor Networks”, Sensors, 2009, 9(9), Pages 6626-6651.
 [[网页]](https://www.mdpi.com/1424-8220/9/9/6626)
 
-<font color="#48aee" ><b>[IEEE ICDCS]</b></font>Hanjiang Luo, Kaishun Wu, Zhongwen Guo, Lin Gu and Lionel M. Ni, “SID: Ship Intrusion Detection with Wireless Sensor Networks”, The 31st International Conference on Distributed Computing Systems (IEEE ICDCS 2011).
+<font color="#48aee" ><b>[IEEE ICDCS]</b></font><b>Hanjiang Luo</b>, Kaishun Wu, Zhongwen Guo, Lin Gu and Lionel M. Ni, “SID: Ship Intrusion Detection with Wireless Sensor Networks”, The 31st International Conference on Distributed Computing Systems (IEEE ICDCS 2011).
 [[网页]](https://ieeexplore.ieee.org/document/5961764)
 
-<font color="#48aee" ><b>[JNW]</b></font>Hanjiang Luo, Zhongwen Guo, Wei Dong, Feng Hong and Yiyang Zhao, “LDB: Localization with Directional Beacons for Sparse 3D Underwater Acoustic Sensor Networks”, Journal of Networks, 2010, 5(2), Pages 28-38.
+<font color="#48aee" ><b>[JNW]</b></font><b>Hanjiang Luo</b>, Zhongwen Guo, Wei Dong, Feng Hong and Yiyang Zhao, “LDB: Localization with Directional Beacons for Sparse 3D Underwater Acoustic Sensor Networks”, Journal of Networks, 2010, 5(2), Pages 28-38.
 [[网页]](https://repository.hkust.edu.hk/ir/Record/1783.1-35244)
 
-Hanjiang Luo, Zhong Yang, Linfeng, Huang,“Localization for a Hybrid Ocean Wireless Sensor Networs”, Advanced Technologies in Ad Hoc and Sensor Networks Lecture Notes in Electrical Engineering, 2013, Volume 295, Pages 353-362.
+<b>Hanjiang Luo</b>, Zhong Yang, Linfeng, Huang,“Localization for a Hybrid Ocean Wireless Sensor Networs”, Advanced Technologies in Ad Hoc and Sensor Networks Lecture Notes in Electrical Engineering, 2013, Volume 295, Pages 353-362.
 [[网页]](https://link.springer.com/chapter/10.1007/978-3-642-54174-2_32)
 
-<font color="#48aee" ><b>[ICPADS]</b></font>Hanjiang Luo, Rukhsana Ruby, “HARS A Hybrid Adaptive Routing Scheme for Underwater Sensor Networks”， The 23th IEEE International Conference on Parallel and Distributed Systems (ICPADS 2017), 2017，Pages 284-291.
+<font color="#48aee" ><b>[ICPADS]</b></font><b>Hanjiang Luo</b>, Rukhsana Ruby, “HARS A Hybrid Adaptive Routing Scheme for Underwater Sensor Networks”， The 23th IEEE International Conference on Parallel and Distributed Systems (ICPADS 2017), 2017，Pages 284-291.
 [[网页]](https://ieeexplore.ieee.org/document/8368375)
 
 <font color="#48aee" ><b>[计算机研究与发展]</b></font>
-郭忠文, 罗汉江, 洪锋，杨猛，倪明选， “水下无线传感器网络的研究进展”，计算机研究与发展，2010，47（3），Pages 377-389.
+郭忠文, <b>罗汉江</b>, 洪锋，杨猛，倪明选， “水下无线传感器网络的研究进展”，计算机研究与发展，2010，47（3），Pages 377-389.
 [[网页]](https://www.researchgate.net/publication/203039471_Current_Progress_and_Research_Issues_in_Underwater_Sensor_Networks)
 
 ### Patent
 ---
-- “一种海洋无线传感器网络定位方法”， （位次 1），发明人：罗汉江，伍楷舜，倪明选 ，2016年9月，授权号：ZL201410387193.0。
-- “一种基于漂浮线缆的海洋立体监测传感器网络部署方法“，（位次 1），发明人：罗汉江，2018年8月，授权号：ZL201510117916.X。
-- “一种大型场合服务收费系统及方法”，（位次 3），发明人 ：刘美丽、李宁宁、罗汉江、栾秋平，2013年4月，授权号：ZL201310140549.
+- “一种海洋无线传感器网络定位方法”， （位次 1），发明人：<b>罗汉江</b>，伍楷舜，倪明选 ，2016年9月，授权号：ZL201410387193.0。
+- “一种基于漂浮线缆的海洋立体监测传感器网络部署方法“，（位次 1），发明人：<b>罗汉江</b>，2018年8月，授权号：ZL201510117916.X。
+- “一种大型场合服务收费系统及方法”，（位次 3），发明人 ：刘美丽、李宁宁、<b>罗汉江</b>、栾秋平，2013年4月，授权号：ZL201310140549.
 
 ### Book
 - 2017.07， 智能家居概论，机械工业出版社，主编。
