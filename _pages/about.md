@@ -53,32 +53,25 @@ been granted five invention patents (first place), and won the Second Prize of t
 ---
 
 ### Article
-<font color="#48aee" ><b>[IEEE Commun. Surv. Tutorials]
-</b></font>Hanjiang Luo, Kaishun Wu, Rukhsana Ruby, Yongquan Liang,Zhongwen Guo, Lionel M. Ni, “Software-Defined Architectures and Technologies for Underwter Wireless Sensor Networks: A Survey”,IEEE Communications Surveys and Tutorials, 2018,20 (4)，Pages 2855-2888.
+<font color="#48aee" ><b>[IEEE Commun. Surv. Tutorials]</b></font>Hanjiang Luo, Kaishun Wu, Rukhsana Ruby, Yongquan Liang,Zhongwen Guo, Lionel M. Ni, “Software-Defined Architectures and Technologies for Underwter Wireless Sensor Networks: A Survey”,IEEE Communications Surveys and Tutorials, 2018,20 (4)，Pages 2855-2888.
 [[网页]](https://ieeexplore.ieee.org/document/8369058)
 
-<font color="#48aee" ><b>[CSUR]</b></font>
-Hanjiang Luo, Kaishun Wu, Rukhsana Ruby, Feng Hong ,Zhongwen Guo, Lionel M. Ni, “Simulation and Experimentation Platforms for Underwater Acoustic Sensor Networks: Advancements and Challenges”, ACM Computing Surveys (CSUR), 2017,50 (2)，Pages 1-44.
+<font color="#48aee" ><b>[CSUR]</b></font>Hanjiang Luo, Kaishun Wu, Rukhsana Ruby, Feng Hong ,Zhongwen Guo, Lionel M. Ni, “Simulation and Experimentation Platforms for Underwater Acoustic Sensor Networks: Advancements and Challenges”, ACM Computing Surveys (CSUR), 2017,50 (2)，Pages 1-44.
 [[网页]](https://dl.acm.org/doi/10.1145/3040990)
 
-<font color="#48aee" ><b>[IEEE TPDS]</b></font>
-Hanjiang Luo, Kaishun Wu, Zhongwen Guo, Lin Gu and Lionel M. Ni, “Intrusion Detection with Wireless Sensor Networks”, IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS), 2012, 23 (7) , Pages 1336-1343.
+<font color="#48aee" ><b>[IEEE TPDS]</b></font>Hanjiang Luo, Kaishun Wu, Zhongwen Guo, Lin Gu and Lionel M. Ni, “Intrusion Detection with Wireless Sensor Networks”, IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS), 2012, 23 (7) , Pages 1336-1343.
 [[网页]](https://ieeexplore.ieee.org/document/10477421)
 
-<font color="#48aee" ><b>[IEEE TVT]</b></font>
-Hanjiang Luo, Kaishun Wu, Lionel M. Ni, ”Localization for Drifting Restricted Floating Ocean Sensor Networks”, 2016, 65 (12) , Pages 9968-9981.  IEEE Transactions on Vehicular Technology.
+<font color="#48aee" ><b>[IEEE TVT]</b></font>Hanjiang Luo, Kaishun Wu, Lionel M. Ni, ”Localization for Drifting Restricted Floating Ocean Sensor Networks”, 2016, 65 (12) , Pages 9968-9981.  IEEE Transactions on Vehicular Technology.
 [[网页]](https://ieeexplore.ieee.org/document/7407425)
 
-<font color="#48aee" ><b>[IEEE ACCESS]</b></font>
-Hanjiang Luo, Xiumei Xie, Guangjie Han, Rukhsana Ruby, Feng Hong, Yongquan Liang. Multimodal Acoustic-RF Adaptive Routing Protocols for Underwater Wireless Sensor Networks [J], IEEE ACCESS, 2019,7 (9): 134954-134967。
+<font color="#48aee" ><b>[IEEE ACCESS]</b></font>Hanjiang Luo, Xiumei Xie, Guangjie Han, Rukhsana Ruby, Feng Hong, Yongquan Liang. Multimodal Acoustic-RF Adaptive Routing Protocols for Underwater Wireless Sensor Networks [J], IEEE ACCESS, 2019,7 (9): 134954-134967。
 [[网页]](https://ieeexplore.ieee.org/document/8843859)
 
-<font color="#48aee" ><b>[Sensors]</b></font>
-Hanjiang Luo, Zhongwen Guo, KaishunWu, Feng Hong and Yuan Feng, “Energy Balanced Strategies for Maximizing the Lifetime of Sparsely Deployed Underwater Acoustic Sensor Networks”, Sensors, 2009, 9(9), Pages 6626-6651.
+<font color="#48aee" ><b>[Sensors]</b></font>Hanjiang Luo, Zhongwen Guo, KaishunWu, Feng Hong and Yuan Feng, “Energy Balanced Strategies for Maximizing the Lifetime of Sparsely Deployed Underwater Acoustic Sensor Networks”, Sensors, 2009, 9(9), Pages 6626-6651.
 [[网页]](https://www.mdpi.com/1424-8220/9/9/6626)
 
-<font color="#48aee" ><b>[IEEE ICDCS]</b></font>
-Hanjiang Luo, Kaishun Wu, Zhongwen Guo, Lin Gu and Lionel M. Ni, “SID: Ship Intrusion Detection with Wireless Sensor Networks”, The 31st International Conference on Distributed Computing Systems (IEEE ICDCS 2011).
+<font color="#48aee" ><b>[IEEE ICDCS]</b></font>Hanjiang Luo, Kaishun Wu, Zhongwen Guo, Lin Gu and Lionel M. Ni, “SID: Ship Intrusion Detection with Wireless Sensor Networks”, The 31st International Conference on Distributed Computing Systems (IEEE ICDCS 2011).
 [[网页]](https://ieeexplore.ieee.org/document/5961764)
 
 <font color="#48aee" ><b>[JNW]</b></font>
