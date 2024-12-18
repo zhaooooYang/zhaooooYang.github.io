@@ -1,17 +1,17 @@
 # main links links
 main:
   - title: "Research"
-    url: "#about-me"
-
-  - title: "Publication"
     url: "#-xl"
 
-  - title: "Teaching"
+  - title: "Publication"
     url: "#-lwzl"
 
+  - title: "Teaching"
+    url: "#-teaching"
+
   - title: "Award"
-    url: "#-ryjx"
+    url: "#-award"
 
   - title: "Project"
-    url: "#-xshy"
+    url: "#-project"
 
