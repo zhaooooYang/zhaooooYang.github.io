@@ -74,28 +74,29 @@ been granted five invention patents (first place), and won the Second Prize of t
 <font color="#48aee" ><b>[IEEE ICDCS]</b></font>Hanjiang Luo, Kaishun Wu, Zhongwen Guo, Lin Gu and Lionel M. Ni, “SID: Ship Intrusion Detection with Wireless Sensor Networks”, The 31st International Conference on Distributed Computing Systems (IEEE ICDCS 2011).
 [[网页]](https://ieeexplore.ieee.org/document/5961764)
 
-<font color="#48aee" ><b>[JNW]</b></font>
-Hanjiang Luo, Zhongwen Guo, Wei Dong, Feng Hong and Yiyang Zhao, “LDB: Localization with Directional Beacons for Sparse 3D Underwater Acoustic Sensor Networks”, Journal of Networks, 2010, 5(2), Pages 28-38.
-
+<font color="#48aee" ><b>[JNW]</b></font>Hanjiang Luo, Zhongwen Guo, Wei Dong, Feng Hong and Yiyang Zhao, “LDB: Localization with Directional Beacons for Sparse 3D Underwater Acoustic Sensor Networks”, Journal of Networks, 2010, 5(2), Pages 28-38.
+[[网页]](https://repository.hkust.edu.hk/ir/Record/1783.1-35244)
 
 Hanjiang Luo, Zhong Yang, Linfeng, Huang,“Localization for a Hybrid Ocean Wireless Sensor Networs”, Advanced Technologies in Ad Hoc and Sensor Networks Lecture Notes in Electrical Engineering, 2013, Volume 295, Pages 353-362.
+[[网页]](https://link.springer.com/chapter/10.1007/978-3-642-54174-2_32)
 
-Hanjiang Luo, Rukhsana Ruby, “HARS A Hybrid Adaptive Routing Scheme for Underwater Sensor Networks”， The 23th IEEE International Conference on Parallel and Distributed Systems (ICPADS 2017), 2017，Pages 284-291.
+<font color="#48aee" ><b>[ICPADS]</b></font>Hanjiang Luo, Rukhsana Ruby, “HARS A Hybrid Adaptive Routing Scheme for Underwater Sensor Networks”， The 23th IEEE International Conference on Parallel and Distributed Systems (ICPADS 2017), 2017，Pages 284-291.
+[[网页]](https://ieeexplore.ieee.org/document/8368375)
 
-郭忠文, 罗汉江, 洪锋，杨猛，倪明选， “水下无线传感器网络的研究进展”，计算机研究与发展，2010，47（3），Pages 377-389.（EI检索）。
+<font color="#48aee" ><b>[计算机研究与发展]</b></font>
+郭忠文, 罗汉江, 洪锋，杨猛，倪明选， “水下无线传感器网络的研究进展”，计算机研究与发展，2010，47（3），Pages 377-389.
+[[网页]](https://www.researchgate.net/publication/203039471_Current_Progress_and_Research_Issues_in_Underwater_Sensor_Networks)
 
-
-
-### 中文
+### Patent
 ---
+- “一种海洋无线传感器网络定位方法”， （位次 1），发明人：罗汉江，伍楷舜，倪明选 ，2016年9月，授权号：ZL201410387193.0。
+- 
+- “一种基于漂浮线缆的海洋立体监测传感器网络部署方法“，（位次 1），发明人：罗汉江，2018年8月，授权号：ZL201510117916.X。
+- 
+- “一种大型场合服务收费系统及方法”，（位次 3），发明人 ：刘美丽、李宁宁、罗汉江、栾秋平，2013年4月，授权号：ZL201310140549.
 
-- 	`唐健`，王荣彪，康宜华. 大提离漏磁无损检测方法. *无损检测*. 2022,44(4): 67. (核心期刊)  
-[[网页]](https://dx.doi.org/10.11973/wsjc202204000) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[下载]](/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
 
 
-### 专利
----
-- 康宜华, `唐健`. 一种基于铁磁性板的缺陷检测方法. [[网页]](https://cprs.patentstar.com.cn/Search/Detail?ANE=9IBC8DFA9GCB8DEA6FAA9HHFCICA1BAA9ACB9EGC9GAA6AAA)
 
 
 
