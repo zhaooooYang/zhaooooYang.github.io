@@ -19,19 +19,39 @@ redirect_from:
 
 # Biography
 
-Hanjiang Luo joined <font color="#48aee">Shandong University of Science and Technology</font> in May 2018
-and is currently a professor in the School of Computer Science and Software Engineering.
-He obtained his Master’s degree in Computer Application Technology from <font color="#48aee">Ocean University of China</font> in Qingdao, China in 2007,
-and the Ph.D degree in Computer Science and Engineering from the same university under the supervision of Prof. Zhongwen Guo in 2010.
-He served as a visiting scholar at the <font color="#48aee">Hong Kong University of Science and Technology</font> in 2014.
+Professor, doctoral supervisor, Qingdao West Coast high-level shortage of introduced talents, 
+Hong Kong University of Science and Technology visiting scholars, 
+Ocean University of China doctoral degree. 
+He is engaged in the research of Internet of Things, Artificial Intelligence, Deep Reinforcement Learning, 
+UAV Intelligent Collaboration, Robot Cluster Collaborative Intelligence, 
+and Marine Internet of Things, etc. 
+He has presided one project of the National Natural Science Foundation of China(General Program), 
+one sub-topic project of the National Natural Science Foundation of China (Key Program), 
+two projects of the Shandong Provincial Natural Science Foundation, 
+and one Shandong Province university Scientific Research Project, 
+and has participated in more than ten projects of the National High-tech R&D Program of China (863 Program),
+National Basic Research Program of China(973 Program).
+He has won Shandong Province Universities Excellent Scientific Research Achievement Award (the first one), 
+5 authorized invention patents (the first one), 
+1 second prize of National Teaching Achievement Award, 
+1 special prize of Shandong Province Provincial Teaching Achievement Award, 
+and 1 second prize of Shandong Province Provincial Teaching Achievement Award.
 
-He is currently the host of one National Fund general project,
-one sub-project of the National Fund Joint Fund key project,
-and one Shandong Provincial Fund general project.
-He has participated in more than ten projects including the National 973 Project,
-863 Project, National Fund, and Shandong Provincial University Scientific Research Projects.
-He has received the First Prize of the Shandong Provincial University Outstanding Scientific Research Achievement Award (first place),
-been granted five invention patents (first place), and won the Second Prize of the National Teaching Achievement Award.
+He has published more than 50 SCI/EI retrieved papers, 
+with more than 1750 accumulated citations in Google Scholar, 
+including international TOP journals, CCF-recommended Class A journals, 
+IEEE Trans journals, etc., 
+such as IEEE Communications Surveys and Tutorials, ACM Computing Surveys (CSUR), 
+IEEE Internet of Things Journal, IEEE Transactions on Parallel and Distributed Systems (TPDS), 
+IEEE Transactions on Vehicular Technology (TVT) and other internationally recognized journals.
+He serves as a member of CCF IoT Special Committee of China Computer Federation, 
+an executive member of ACM SIGAPP China, 
+a member of Vision Application and Intelligent Technology Special Committee of Shandong Artificial Intelligence Society, 
+a TPC of several conferences such as ACM TURC Organizing Committee of Turing Conference in China 
+and a reviewer of several international journals, such as IEEE TMC, IEEE TVT, IEEE IOTJ, etc.
+He has made more than 50 professional presentations at China IoT Conference and other conferences, 
+and edited textbooks such as 《An Introduction to Smart Home》, 《Introduction to IoT》, 《Introduction to IoT Application Technology》.
+
 
 <span class='anchor' id='-xl'></span>
 
