@@ -174,13 +174,13 @@ Introduction to Internet of Things Application Technology, edited by Neusoft Ele
 
 # Teaching
 
-Guided students to win the third prize in the China University Computer Design Competition (2022)
+- Guided students to win the third prize in the China University Computer Design Competition (2022)
 
-Guided students to win the second prize in the North China division of the "Huawei Cup" National University Internet of Things Design Competition (2020)
+- Guided students to win the second prize in the North China division of the "Huawei Cup" National University Internet of Things Design Competition (2020)
 
-Guided students to win first prize at Shandong University Science and Technology Festival (2020)
+- Guided students to win first prize at Shandong University Science and Technology Festival (2020)
 
-<span class='anchor' id='-award'></span>
+- <span class='anchor' id='-award'></span>
 
 # Award
 
