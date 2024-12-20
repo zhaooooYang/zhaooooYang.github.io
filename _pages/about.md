@@ -159,7 +159,7 @@ My research areas include:
 # Award
 
 - National Teaching Achievement Award Second Prize, National Level, 2018/12
-- First-class prize of Shandong Province Higher Education School Science and Technology Award (first place), Provincial Level, 2017/12
+- First-class prize of Shandong Province Higher Education School Science and Technology Award (1st Place), Provincial Level, 2017/12
 - Shandong Provincial Teaching Achievement Award, Grand Prize, Provincial Level, 2018/04
 - Shandong Provincial Teaching Achievement Award Second Prize, Provincial Level, 2022/03
 - Special Prize of Undergraduate Teaching Achievement Award of Shandong University of Science and Technology, School Level, 2020/07
