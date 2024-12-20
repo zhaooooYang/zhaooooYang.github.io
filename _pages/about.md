@@ -70,58 +70,58 @@ My research areas include:
 
 ## Article
 <font color="#48aee" ><b>[IEEE Commun. Surv. Tutorials]</b></font><b>Hanjiang Luo</b>, Kaishun Wu, Rukhsana Ruby, Yongquan Liang,Zhongwen Guo, Lionel M. Ni, “Software-Defined Architectures and Technologies for Underwter Wireless Sensor Networks: A Survey”,IEEE Communications Surveys and Tutorials, 2018,20 (4)，Pages 2855-2888.
-[[网页]](https://ieeexplore.ieee.org/document/8369058)
+[[Website]](https://ieeexplore.ieee.org/document/8369058)
 
 <font color="#48aee" ><b>[CSUR]</b></font><b>Hanjiang Luo</b>, Kaishun Wu, Rukhsana Ruby, Feng Hong ,Zhongwen Guo, Lionel M. Ni, “Simulation and Experimentation Platforms for Underwater Acoustic Sensor Networks: Advancements and Challenges”, ACM Computing Surveys (CSUR), 2017,50 (2)，Pages 1-44.
-[[网页]](https://dl.acm.org/doi/10.1145/3040990)
+[[Website]](https://dl.acm.org/doi/10.1145/3040990)
 
 <font color="#48aee" ><b>[IEEE IOTJ]</b></font><b>Hanjiang Luo</b>, Saisai Ma, Hang Tao, Rukhsana Ruby, Jiehan Zhou, Kaishun Wu. DRL-Optimized Optical Communication for a Reliable UAV-Based Maritime Data Transmission [J]. IEEE Internet of Things Journal (IoTJ), 2024, 11(10): 18768 -18781.
-[[网页]](https://ieeexplore.ieee.org/document/10436420)
+[[Website]](https://ieeexplore.ieee.org/document/10436420)
 
 <font color="#48aee" ><b>[IEEE TVT]</b></font><b>Hanjiang Luo</b>, Xu Wang, Fanfeng Bu, Yuting Yang, Rukhsana Ruby, Kaishun Wu. Underwater Real-time Video Transmission via Wireless Optical Channels with Swarms of AUVs [J]. IEEE Transactions on Vehicular Technology (TVT), 2023, 72(11): 14688-14703.
-[[网页]](https://ieeexplore.ieee.org/document/10135165)
+[[Website]](https://ieeexplore.ieee.org/document/10135165)
 
 <font color="#48aee" ><b>[IEEE TVT]</b></font><b>Hanjiang Luo</b>, Kaishun Wu, Lionel M. Ni, ”Localization for Drifting Restricted Floating Ocean Sensor Networks”, 2016, 65 (12) , Pages 9968-9981.  IEEE Transactions on Vehicular Technology.
-[[网页]](https://ieeexplore.ieee.org/document/7407425)
+[[Website]](https://ieeexplore.ieee.org/document/7407425)
 
 <font color="#48aee" ><b>[IEEE TVT]</b></font>Jinglong Wang, <b>Hanjiang Luo*</b>, Rukhsana Ruby, Jiangang Liu, Shengli Wang, Kaishun Wu. Enabling Reliable Water-Air Direct Optical Wireless Communication for Uncrewed Vehicular Networks: A Deep Reinforcement Learning Approach [J]. IEEE Transactions on Vehicular Technology (TVT), 2024, 73(8):11470-11486.
-[[网页]](https://ieeexplore.ieee.org/document/10468635)
+[[Website]](https://ieeexplore.ieee.org/document/10468635)
 
 <font color="#48aee" ><b>[IEEE TPDS]</b></font><b>Hanjiang Luo</b>, Kaishun Wu, Zhongwen Guo, Lin Gu and Lionel M. Ni, “Intrusion Detection with Wireless Sensor Networks”, IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS), 2012, 23 (7) , Pages 1336-1343.
-[[网页]](https://ieeexplore.ieee.org/document/10477421)
+[[Website]](https://ieeexplore.ieee.org/document/10477421)
 
 <font color="#48aee" ><b>[IEEE Sensors]</b></font><b>Hanjiang Luo</b>, Jinglong Wang, Fanfeng Bu, Rukhsana Ruby, Kaishun Wu, Zhongwen Guo. Recent Progress of Air/Water Cross-boundary Communications for Underwater Sensor Networks: A Review [J]. IEEE Sensors Journal, 2022, 22(9), 8360-8382.
-[[网页]](https://ieeexplore.ieee.org/document/9743461)
+[[Website]](https://ieeexplore.ieee.org/document/9743461)
 
 <font color="#48aee" ><b>[IEEE Sensors]</b></font>Mengzhen Li, <b>Hanjiang Luo*</b>, Hang Tang, Xiang Li, Peijun Dong, Kaishun Wu. Collaborative Multi-AUV Optical Communication Via Deep Reinforcement Learning [J]. IEEE Sensors Journal, 2024, Early Access
-[[网页]](https://ieeexplore.ieee.org/document/10753441)
+[[Website]](https://ieeexplore.ieee.org/document/10753441)
 
 <font color="#48aee" ><b>[IEEE ACCESS]</b></font><b>Hanjiang Luo</b>, Xiumei Xie, Guangjie Han, Rukhsana Ruby, Feng Hong, Yongquan Liang. Multimodal Acoustic-RF Adaptive Routing Protocols for Underwater Wireless Sensor Networks [J], IEEE ACCESS, 2019,7 (9): 134954-134967。
-[[网页]](https://ieeexplore.ieee.org/document/8843859)
+[[Website]](https://ieeexplore.ieee.org/document/8843859)
 
 <font color="#48aee"><b>[LCN]</b></font>Jinglong Wang, <b>Hanjiang Luo*</b>, Rukhsana Ruby, Jiangang Liu, Kai Guo, Kaishun Wu. Reliable Water-Air Direct Wireless Communication: Kalman Filter-Assisted Deep Reinforcement Learning Approach [C]. 2022 IEEE 47th Conference on Local Computer Networks (LCN), 2022: 233-238.
-[[网页]](https://ieeexplore.ieee.org/document/9843503)
+[[Website]](https://ieeexplore.ieee.org/document/9843503)
 
 <font color="#48aee"><b>[ICPADS]</b></font>Xu Wang, <b>Hanjiang Luo*</b>, Yuting Yang, Rukhsana Ruby, Kaishun Wu. Underwater Real-time Video Transmission via Optical Channels with Swarms of AUVs [C].The 27th IEEE International Conference on Parallel and Distributed Systems (ICPADS 2021), 2021: 859-866.
-[[网页]](https://ieeexplore.ieee.org/abstract/document/9763828)
+[[Website]](https://ieeexplore.ieee.org/abstract/document/9763828)
 
 <font color="#48aee"><b>[ICPADS]</b></font><b>Hanjiang Luo</b>, Rukhsana Ruby, “HARS A Hybrid Adaptive Routing Scheme for Underwater Sensor Networks”， The 23th IEEE International Conference on Parallel and Distributed Systems (ICPADS 2017), 2017，Pages 284-291.
-[[网页]](https://ieeexplore.ieee.org/document/8368375)
+[[Website]](https://ieeexplore.ieee.org/document/8368375)
 
 <font color="#48aee" ><b>[ICDCS]</b></font><b>Hanjiang Luo</b>, Kaishun Wu, Zhongwen Guo, Lin Gu and Lionel M. Ni, “SID: Ship Intrusion Detection with Wireless Sensor Networks”, The 31st International Conference on Distributed Computing Systems (IEEE ICDCS 2011).
-[[网页]](https://ieeexplore.ieee.org/document/5961764)
+[[Website]](https://ieeexplore.ieee.org/document/5961764)
 
 <font color="#48aee" ><b>[Sensors]</b></font><b>Hanjiang Luo</b>, Zhongwen Guo, KaishunWu, Feng Hong and Yuan Feng, “Energy Balanced Strategies for Maximizing the Lifetime of Sparsely Deployed Underwater Acoustic Sensor Networks”, Sensors, 2009, 9(9), Pages 6626-6651.
-[[网页]](https://www.mdpi.com/1424-8220/9/9/6626)
+[[Website]](https://www.mdpi.com/1424-8220/9/9/6626)
 
 <font color="#48aee" ><b>[JNW]</b></font><b>Hanjiang Luo</b>, Zhongwen Guo, Wei Dong, Feng Hong and Yiyang Zhao, “LDB: Localization with Directional Beacons for Sparse 3D Underwater Acoustic Sensor Networks”, Journal of Networks, 2010, 5(2), Pages 28-38.
-[[网页]](https://repository.hkust.edu.hk/ir/Record/1783.1-35244)
+[[Website]](https://repository.hkust.edu.hk/ir/Record/1783.1-35244)
 
 <b>罗汉江</b>,卜凡峰,王京龙,杨玉婷. 海洋物联网水面及水下多模通信技术研究进展[J]. 山东科技大学学报 (自然科学版),2023,42(1):79-90.
-[[网页]](https://xuebao.sdust.edu.cn/zikewenzhang/z2023/z202301/09luohanjiang.pdf)
+[[Website]](https://xuebao.sdust.edu.cn/zikewenzhang/z2023/z202301/09luohanjiang.pdf)
 
 郭忠文, <b>罗汉江</b>, 洪锋，杨猛，倪明选， “水下无线传感器网络的研究进展”，计算机研究与发展，2010，47（3），Pages 377-389.
-[[网页]](https://repository.hkust.edu.hk/ir/Record/1783.1-17143)
+[[Website]](https://repository.hkust.edu.hk/ir/Record/1783.1-17143)
 
 ## Patent
 
@@ -203,11 +203,19 @@ Guided students to win first prize at Shandong University Science and Technology
 
 [1] 国家自然科学基金联合基金重点项目，U24A20215， 基于跨层优化的水下无线传感器网络关键技术研究，2025/01-2028/12，261万，在研，联合单位项目负责人，主持
 
+National Natural Science Foundation of China (Key Program), U24A20215，  Research on Key Technologies of Underwater Wireless Sensor Networks Based on Cross Layer Optimization, 2025/01-2028/12， 2610000￥, in progress, project leader of joint units, and principal investigator
+
 [2] 国家自然科学基金面上项目，62072287，海洋环境下声光电协同网络关键问题研究，2021/01-2024/12，56万，在研，主持
+
+National Natural Science Foundation of China (General Program), 62072287, Research on Key Issues of Acoustic Optoelectronic Collaborative Network in Marine Environment, 2021.01-2024/12, 560000￥, in progress, principal investigator
 
 [3] 山东省自然科学基金面上项目，ZR2024MF024，复杂海洋环境下跨域无人集群智能协同关键技术研究，2025/01-2027/12，10万，在研，主持  
 
+Shandong Provincial Natural Science Foundation (General Program), ZR2024MF024， Research on Key Technologies for Cross domain Unmanned Cluster Intelligent Collaboration in Complex Marine Environments, 2025/01-2027/12, 100000￥, in progress, principal investigator
+
 [4] 山东省自然科学基金面上项目，ZR2020MF059，声光电协同的海洋立体观测数据高速传输关键技术研究，2021/01-2023/12，10万，已结题，主持
+
+Shandong Provincial Natural Science Foundation (General Program), ZR2020MF059， Research on Key Technologies for High speed Transmission of Ocean Stereoscopic Observation Data through Acoustic Optoelectronic Collaboration, 2021.01-2023/12, 100000￥, completed, principal investigator
 
 [5] 山东省高校科研计划项目，J11LG88，海洋监测传感器网络定位及闯入监测研究，2011/06-2016/03，6万元，已结题，主持
 
