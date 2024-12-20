@@ -127,17 +127,20 @@ My research areas include:
 
 [1] <b>罗汉江</b>，一种基于漂浮线缆的海洋立体监测传感器网络部署方法，2018.09.14，中国，发明专利，ZL201510117916.X（已授权）
 
-<b>Hanjiang Luo</b>，A deployment method for ocean stereo monitoring sensor network based on floating cables, September 14, 2018, China, invention patent, ZL201510117916. X (authorized)
+<b>Hanjiang Luo</b>，A deployment method for ocean stereo monitoring sensor network based on floating cables, 2018.09.14, China, invention patent, ZL201510117916. X (authorized)
 
-[2] <b>罗汉江</b>、伍楷舜、倪明选，一种海洋无线传感器网络定位方法，2016.09.14，中国，发明专利，ZL201410387193.0（已授权）
+[2] <b>罗汉江</b>、伍楷舜、倪明选, 一种海洋无线传感器网络定位方法，2016.09.14，中国，发明专利，ZL201410387193.0（已授权）
 
-<b>Hanjiang Luo</b>、Kaishun Wu、Mingxuan Ni，A marine wireless sensor network positioning method, 2016.09.14, China, invention patent, ZL201410387193.0 (authorized)
+<b>Hanjiang Luo</b>、Kaishun Wu、Mingxuan Ni, A marine wireless sensor network positioning method, 2016.09.14, China, invention patent, ZL201410387193.0 (authorized)
 
-[3] <b>罗汉江</b>、卜凡峰、马赛赛、王京龙、李响、邓廷龙，2022.12.06，一种基于深度强化学习的AUV多模移动数据收集方法，20221206，中国，发明专利，申请号：202211553633.6
+[3] <b>罗汉江</b>、卜凡峰、马赛赛、王京龙、李响、邓廷龙, 2022.12.06，一种基于深度强化学习的AUV多模移动数据收集方法，20221206，中国，发明专利，申请号：202211553633.6
+<b>Hanjiang Luo</b>、Fanfeng Bu、Saisai Ma、Jinglong Wang、Xiang Li、Tinglong Deng, A method for collecting multi-mode mobile data for AUV based on deep reinforcement learning, 2022.12.06, China, invention patent, application number: 202211553633.6
 
-[4] <b>罗汉江</b>、马赛赛、李梦真、王京龙、邓廷龙、刘奎，一种基于深度强化学习的海上无人机辅助光数据收集方法, 20230815，中国，发明专利，ZL202310678408.3（已授权）
+[4] <b>罗汉江</b>、马赛赛、李梦真、王京龙、邓廷龙、刘奎, 一种基于深度强化学习的海上无人机辅助光数据收集方法, 20230815，中国，发明专利，ZL202310678408.3（已授权）
+<b>Hanjiang Luo</b>、SaisaiMa、Mengzhen Li、Jinglong Wang、Tinglong Deng、Kui Liu, A deep reinforcement learning based method for collecting light data assisted by unmanned aerial vehicles at sea, 2023.08.15, China, invention patent, ZL202310678408.3 (authorized)
 
-[5] <b>罗汉江</b>、邵明月、陶航、刘建港、董鹏燕、王胤言，一种基于深度强化学习的多无人机海上移动基站部署方法，20240227，中国，发明专利，ZL202311675962.2（已授权）
+[5] <b>罗汉江</b>、邵明月、陶航、刘建港、董鹏燕、王胤言, 一种基于深度强化学习的多无人机海上移动基站部署方法，20240227，中国，发明专利，ZL202311675962.2（已授权）
+<b>Hanjiang Luo</b>、Mingyue Shao、Hang Tao、Jiangang Liu、Pengyan Dong、Yinyan Wang, A method for deploying multiple unmanned aerial vehicle mobile base stations at sea based on deep reinforcement learning, 2024.02.27, China, invention patent, ZL202311675962.2 (authorized)
 
 [6] <b>罗汉江</b>、郭恺、刘奎、陶航、陈晓东、董配军、赵扬，一种基于强化学习的海上无人机编队变粒度协同搜救方法，20231218，中国，发明专利，ZL202311734139.4 （已授权）
 
