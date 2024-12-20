@@ -31,11 +31,11 @@ two projects of the Shandong Provincial Natural Science Foundation,
 and one Shandong Province university Scientific Research Project, 
 and has participated in more than ten projects of the National High-tech R&D Program of China <font color="#48aee" ><b>(863 Program)</b></font>,
 National Basic Research Program of China<font color="#48aee" ><b>(973 Program)</b></font>.
-He has won Shandong Province Universities Excellent Scientific Research Achievement Award (the first one), 
-5 authorized invention patents (the first one), 
-1 second prize of National Teaching Achievement Award, 
-1 special prize of Shandong Province Provincial Teaching Achievement Award, 
-and 1 second prize of Shandong Province Provincial Teaching Achievement Award.
+He has won Shandong Province Universities Excellent Scientific Research Achievement Award (1st Place), 
+5 authorized invention patents (1st Place), 
+National Teaching Achievement Award (2nd prize), 
+Shandong Province Provincial Teaching Achievement Award (special prize), 
+and Shandong Province Provincial Teaching Achievement Award (second prize).
 
 He has published more than 50 SCI/EI retrieved papers, 
 with more than 1750 accumulated citations in Google Scholar, 
@@ -50,7 +50,7 @@ a member of Vision Application and Intelligent Technology Special Committee of S
 a TPC of several conferences such as ACM TURC Organizing Committee of Turing Conference in China 
 and a reviewer of several international journals, such as IEEE TMC, IEEE TVT, IEEE IOTJ, etc.
 He has made more than 50 professional presentations at China IoT Conference and other conferences, 
-and edited textbooks such as 《An Introduction to Smart Home》, 《Introduction to IoT》, 《Introduction to IoT Application Technology》.
+and edited textbooks 《An Introduction to Smart Home》, 《Introduction to IoT》, 《Introduction to IoT Application Technology》.
 
 
 <span class='anchor' id='-xl'></span>
