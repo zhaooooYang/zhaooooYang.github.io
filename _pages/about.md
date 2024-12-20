@@ -35,7 +35,7 @@ He has won Shandong Province Universities Excellent Scientific Research Achievem
 5 authorized invention patents (1st Place), 
 National Teaching Achievement Award (2nd prize), 
 Shandong Province Provincial Teaching Achievement Award (special prize), 
-and Shandong Province Provincial Teaching Achievement Award (second prize).
+and Shandong Province Provincial Teaching Achievement Award (2nd prize).
 
 He has published more than 50 SCI/EI retrieved papers, 
 with more than 1750 accumulated citations in Google Scholar, 
