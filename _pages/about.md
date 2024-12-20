@@ -219,26 +219,46 @@ Shandong Provincial Natural Science Foundation (General Program), ZR2020MF059，
 
 [5] 山东省高校科研计划项目，J11LG88，海洋监测传感器网络定位及闯入监测研究，2011/06-2016/03，6万元，已结题，主持
 
+Shandong Provincial University Research Program Project, J11LG88, Research on Ocean Monitoring Sensor Network Localization and Intrusion Monitoring, June 2011 to March 2016, 60000￥, completed, principal investigator
+
 [6] 教育部职业教育资源库建设项目，物联网应用技术专业教学资源库子项目无线组网技术2014/08-2017/07，24万元，已结题，主持
+
+The construction project of the Vocational Education Resource Library of the Ministry of Education, the sub project of Wireless Networking Technology in the Teaching Resource Library of the Internet of Things Application Technology major, 2014/08-2017/07, 240000￥, completed, principal investigator
 
 [7] 教育部产学合作协同育人项目，边缘智能物联网协同创新联合实验室建设，2019/10-2020/10，已结题，主持
 
+The Ministry of Education's Industry University Cooperation Collaborative Education Project, the construction of the Edge Intelligent IoT Collaborative Innovation Joint Laboratory, 2019/10-2020/10, completed, principal investigator
+
 [8] 山东省自然科学基金创新发展联合基金，复杂场景下基于深度强化学习的智能体自主决策方法研究，ZR2022LZH001，2023/01-2025/12，100万元，在研，参加
+
+Shandong Provincial Natural Science Foundation Innovation and Development Joint Fund, Research on Intelligent Agent Autonomous Decision making Method Based on Deep Reinforcement Learning in Complex Scenarios, ZR2022LZH001， 2023/01-2025/12, 1000000￥, in progress, participating
 
 [9] 山东省重点研发计划，面向E级系统的多模式耦合应用并行编译优化方法研究，2019/01-2021/12，15万元，已结题，参加
 
+Key R&D Program of Shandong Province, Research on Parallel Compilation and Optimization Methods for Multi mode Coupling Applications for E-level Systems, 2019/01-2021/12, 150000￥, completed, participated
+
 [10] 山东省重点研发计划，急倾斜薄及中厚煤层智能化开采关键技术与装备，2019/01-2021/12，940万元，已结题，参加
+
+Key R&D Program of Shandong Province, Key Technologies and Equipment for Intelligent Mining of Sharp Tilted Thin and Medium Thick Coal Seams, 2019/01-2021/12, 9400000￥, completed, participated
 
 [11] 山东省基金面上项目，基于深度学习和数据驱动的单幅图像三维头部重建方法研究，2021/01-2023/12，10万元，已结题，参加
 
+Shandong Provincial Fund General Project, Research on Single Image 3D Head Reconstruction Method Based on Deep Learning and Data Driven, 2021/01-2023/12, 100000￥ completed, participated
+
 [12] 国家自然科学基金面上项目，60970129，水下受限网络的数据可靠传输与安全问题研究，2010/01-2012/12，31万元，已结题，参加
+
+National Natural Science Foundation of China (General Program), 60970129, Research on Reliable Data Transmission and Security Issues in Underwater Restricted Networks, 2010/01-2012/12, 310000￥, completed, participated
 
 [13] 国家自然科学基金面上项目，60873248，水下传感器网络关键问题研究，2009/01-2011/12，34万元，已结题，参加
 
+National Natural Science Foundation of China (General Program), 60873248, Research on Key Issues of Underwater Sensor Networks, 2009/01-2011/12, 340000￥, completed, participated
+
 [14] 国家863项目，2006AA09Z113，水下传感器网络组网协议关键技术研究，2006/11-2008/11，100万元，已结题，参加
 
-[15] 国家863项目，2006AA09Z113，水下传感器网络组网协议关键技术研究，2006/11-2008/11，100万元，已结题，参加  
+National High-tech R&D Program of China (863 Program), 2006AA09Z113, Key Technology Research on Underwater Sensor Network Networking Protocol, 2006/11-2008/11, 1000000￥, completed, participated
 
-[16] 国家973项目，2006CB303000，无线传感网络的基础理论及关键技术研究，2007/09-2010/12，3000万元，已结题，参加
+[15] 国家973项目，2006CB303000，无线传感网络的基础理论及关键技术研究，2007/09-2010/12，3000万元，已结题，参加
+
+National Basic Research Program of China (973 Program), 2006CB303000, Basic Theory and Key Technology Research of Wireless Sensor Networks, 2007/09-2010/12, 30000000￥, completed, participated
 
 
