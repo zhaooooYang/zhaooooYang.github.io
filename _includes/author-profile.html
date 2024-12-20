@@ -109,11 +109,11 @@
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
       {% endif %}
+      {% if author.impactstory %}
+      <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> <span style="color: #62c462"><b>IEEE Link</b></span></a></li>
+      {% endif %}
       {% if author.orcid %}
       <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> <span style="color: #62c462"><b>ORCID Link</b></span></a></li>
-      {% endif %}
-      {% if author.impactstory %}
-        <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> <span style="color: #62c462"><b>IEEE Link</b></span></a></li>
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
