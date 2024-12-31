@@ -23,7 +23,7 @@ Professor, Doctoral supervisor, Qingdao West Coast high-level talents, Hong Kong
 Ph.D in Computer Science and Engineering from <font color="#48aee" ><b>Ocean University of China</b></font>. 
 He is engaged in the research of Internet of Things, Artificial Intelligence, Deep Reinforcement Learning, 
 UAV Intelligent Collaboration, Robot Cluster Collaborative Intelligence, 
-and Marine Internet of Things, LLM based Agentic Systems, etc. 
+and Marine Internet of Things, LLM based Agentic Systems, etc. 123123
 He has presided one project of the <font color="#48aee" ><b>National Natural Science Foundation of China(General Program)</b></font>, 
 one sub-topic project of the <font color="#48aee" ><b>National Natural Science Foundation of China (Key Program)</b></font>, 
 two projects of the Shandong Provincial Natural Science Foundation, 
