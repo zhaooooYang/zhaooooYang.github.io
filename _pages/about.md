@@ -19,31 +19,30 @@ redirect_from:
 
 # Biography
 
-Professor, Doctoral supervisor, Qingdao West Coast high-level shortage of introduced talents(青岛西海岸高层次紧缺引进人才), 
-Hong Kong University of Science and Technology visiting scholars, 
+Professor, Doctoral supervisor, Qingdao West Coast high-level talents, Hong Kong University of Science and Technology visiting scholars, 
 Ph.D in Computer Science and Engineering from <font color="#48aee" ><b>Ocean University of China</b></font>. 
 He is engaged in the research of Internet of Things, Artificial Intelligence, Deep Reinforcement Learning, 
 UAV Intelligent Collaboration, Robot Cluster Collaborative Intelligence, 
-and Marine Internet of Things, etc. 
+and Marine Internet of Things, LLM based Agentic Systems, etc. 
 He has presided one project of the <font color="#48aee" ><b>National Natural Science Foundation of China(General Program)</b></font>, 
 one sub-topic project of the <font color="#48aee" ><b>National Natural Science Foundation of China (Key Program)</b></font>, 
 two projects of the Shandong Provincial Natural Science Foundation, 
 and one Shandong Province university Scientific Research Project, 
 and has participated in more than ten projects of the National High-tech R&D Program of China <font color="#48aee" ><b>(863 Program)</b></font>,
-National Basic Research Program of China<font color="#48aee" ><b>(973 Program)</b></font>.
+National Basic Research Program of China <font color="#48aee" ><b>(973 Program)</b></font>.
 He has won Shandong Province Universities Excellent Scientific Research Achievement Award (1st Place), 
 5 authorized invention patents (1st Place), 
 National Teaching Achievement Award (2nd prize), 
 Shandong Province Provincial Teaching Achievement Award (special prize), 
 and Shandong Province Provincial Teaching Achievement Award (2nd prize).
 
-He has published more than 50 SCI/EI retrieved papers, 
+He has published more than 50 SCI/EI indexed papers, 
 with more than 1750 accumulated citations in Google Scholar, 
 including international TOP journals, CCF-recommended Class A journals, 
 IEEE Trans journals, etc., 
 such as IEEE Communications Surveys and Tutorials, ACM Computing Surveys (CSUR), 
 IEEE Internet of Things Journal, IEEE Transactions on Parallel and Distributed Systems (TPDS), 
-IEEE Transactions on Vehicular Technology (TVT) and other internationally recognized journals.
+IEEE Transactions on Vehicular Technology (TVT) and other international journals.
 He serves as a member of CCF IoT Special Committee of China Computer Federation, 
 an executive member of ACM SIGAPP China, 
 a member of Vision Application and Intelligent Technology Special Committee of Shandong Artificial Intelligence Society, 
@@ -63,6 +62,7 @@ My research areas include:
 - Deep Reinforcement Learning
 - Intelligent Collaboration of UAV
 - Swarm Intelligence of Robots
+- LLM based Agentic Systems
 
 <span class='anchor' id='-lwzl'></span>
 
@@ -90,10 +90,10 @@ My research areas include:
 <font color="#48aee" ><b>[IEEE TPDS]</b></font><b>Hanjiang Luo</b>, Kaishun Wu, Zhongwen Guo, Lin Gu and Lionel M. Ni, “Intrusion Detection with Wireless Sensor Networks”, IEEE Transactions on Parallel and Distributed Systems (IEEE TPDS), 2012, 23 (7) , Pages 1336-1343.
 [[Website]](https://ieeexplore.ieee.org/document/10477421)
 
-<font color="#48aee" ><b>[IEEE Sensors]</b></font><b>Hanjiang Luo</b>, Jinglong Wang, Fanfeng Bu, Rukhsana Ruby, Kaishun Wu, Zhongwen Guo. Recent Progress of Air/Water Cross-boundary Communications for Underwater Sensor Networks: A Review [J]. IEEE Sensors Journal, 2022, 22(9), 8360-8382.
+<font color="#48aee" ><b>[IEEE Sensors Journal]</b></font><b>Hanjiang Luo</b>, Jinglong Wang, Fanfeng Bu, Rukhsana Ruby, Kaishun Wu, Zhongwen Guo. Recent Progress of Air/Water Cross-boundary Communications for Underwater Sensor Networks: A Review [J]. IEEE Sensors Journal, 2022, 22(9), 8360-8382.
 [[Website]](https://ieeexplore.ieee.org/document/9743461)
 
-<font color="#48aee" ><b>[IEEE Sensors]</b></font>Mengzhen Li, <b>Hanjiang Luo*</b>, Hang Tang, Xiang Li, Peijun Dong, Kaishun Wu. Collaborative Multi-AUV Optical Communication Via Deep Reinforcement Learning [J]. IEEE Sensors Journal, 2024, Early Access
+<font color="#48aee" ><b>[IEEE Sensors Journal]</b></font>Mengzhen Li, <b>Hanjiang Luo*</b>, Hang Tang, Xiang Li, Peijun Dong, Kaishun Wu. Collaborative Multi-AUV Optical Communication Via Deep Reinforcement Learning [J]. IEEE Sensors Journal, 2024, Early Access
 [[Website]](https://ieeexplore.ieee.org/document/10753441)
 
 <font color="#48aee" ><b>[IEEE ACCESS]</b></font><b>Hanjiang Luo</b>, Xiumei Xie, Guangjie Han, Rukhsana Ruby, Feng Hong, Yongquan Liang. Multimodal Acoustic-RF Adaptive Routing Protocols for Underwater Wireless Sensor Networks [J], IEEE ACCESS, 2019,7 (9): 134954-134967。
