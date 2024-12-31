@@ -19,7 +19,7 @@ redirect_from:
 
 # Biography
 
-Professor, Doctoral supervisor, Qingdao West Coast high-level shortage of introduced talents(青岛西海岸高层次紧缺引进人才), 
+Professor, Doctoral supervisor, Qingdao West Coast high-level talents, 
 Hong Kong University of Science and Technology visiting scholars, 
 Ph.D in Computer Science and Engineering from <font color="#48aee" ><b>Ocean University of China</b></font>. 
 He is engaged in the research of Internet of Things, Artificial Intelligence, Deep Reinforcement Learning, 
